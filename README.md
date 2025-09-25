@@ -1,1 +1,1 @@
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ryzaxd.png)
+![TryHackMe Badge](./assets/thm_badge.png)
