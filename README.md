@@ -1,6 +1,4 @@
-# 💫 About Me:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2833716" style='border:none;'></iframe><br>
-
+![TryHackMe Badge](https://tryhackme.com/path/to/badge-image.png)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,6 +9,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ryzaxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ryzaxd&icon=0&color=0)](https://visitcount.itsvg.in)
